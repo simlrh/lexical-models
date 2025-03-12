@@ -21,7 +21,7 @@
     <Copyright URL="">Copyright © Jerriais.Tech</Copyright>
     <Author URL="mailto:steveleroyharris@gmail.com">Jerriais.Tech</Author>
     <Version URL="">1.0</Version>
-    <Description URL="">A lexical model for the Jèrriais language based on the Jèrriais spellcheck file maintained by Geraint Jennings.</Description>
+    <Description URL="">A lexical model for the Jèrriais language based on the Jèrriais spellcheck file, used with permission of Geraint Jennings.</Description>
   </Info>
   <Files>
     <File>
